@@ -1,5 +1,6 @@
 # Ignored files with private content
 envoy.log
+*.bak
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
